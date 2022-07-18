@@ -1,4 +1,7 @@
 {
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://thejeshgn.github.io/openbadge/issuer-organization.json",
+    "type": "Issuer",
     "name": "Thejesh GN",
     "url": "https://thejeshgn.com"
 }
