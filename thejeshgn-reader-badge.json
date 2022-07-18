@@ -1,0 +1,15 @@
+{
+    "uid": "1275176253716",
+    "recipient": {
+      "type": "email",
+      "hashed": true,
+      "identity": "sha256$2439c199971e44a07babc5854f5a7fae04028f1c85f492a70bddfa9f55d54130"
+    },
+    "badge": "http://thejeshgn.github.io/openbadge/reader-badge.json",
+    "verification":
+    {
+        "type": "hosted",
+        "url": "http://thejeshgn.github.io/openbadge/thejeshgn-reader-badge.json"
+    },
+    "issuedOn": 1658161013
+}

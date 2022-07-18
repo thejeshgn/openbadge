@@ -1,0 +1,9 @@
+{
+
+    "name": "Reader",
+    "description": "Reader of ThejeshGN.",
+    "image": "https://thejeshgn.com/blog/wp-content/uploads/2014/07/thejeshgn_icon.png",
+    "criteria": "http://thejeshgn.com/subscribe",
+    "alignment": [ ],
+    "issuer": "http://thejeshgn.github.io/openbadge/issuer-organization.json"
+}
