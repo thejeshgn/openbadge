@@ -13,9 +13,6 @@
     {
         "type": "hosted"
     },
-    "verify":
-    {
-        "url": "https://thejeshgn.github.io/openbadge/thejeshgn-reader-badge.json"
-    },
-    "issuedOn": 1658161013
+    "issuedOn": "2022-06-17T23:59:59Z",
+    "expires": "2030-06-30T23:59:59Z"
 }
